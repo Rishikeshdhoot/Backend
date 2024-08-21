@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Production build
+build/
+
+# Test coverage
+coverage/
+
+# Custom folder for static assets (if you have one)
+public/
+
+# Package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
